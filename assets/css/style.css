@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700);
 
 body {
     background-color: #282F32;
@@ -14,7 +14,7 @@ body {
 }
 
 .content {
-    margin-top: 150px;
+    margin-top: 300px;
 }
 
 .logo {
@@ -25,5 +25,5 @@ body {
 h2.header {
     float: right;
     margin-left: 20px;
-    font-weight: 100;
+    font-weight: 700;
 }
